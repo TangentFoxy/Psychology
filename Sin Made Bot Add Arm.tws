@@ -193,7 +193,7 @@ Tiddler
 p70
 (dp71
 g21
-V<<if $word1 is "cut" or $word1 is "do" or $word1 is "dom" or $word1 is "eat" or $word1 is "feel" or $word1 is "hate" or $word1 is "hum" or $word1 is "kick" or $word1 is "made" or $word1 is "mod" or $word1 is "pass" or $word1 is "read" or $word1 is "rot" or $word1 is "see" or $word1 is "slam" or $word1 is "the">>\u000a<<display what>>\u000a\u000a<<else if $word1 is "add" or $word1 is "pair">>\u000a<<display whatandwhat>>\u000a\u000a<<else if $word1 is "chat">>\u000a<<display withwho>>\u000a\u000a<<else if $word1 is "at" or $word1 is "bail" or $word1 is "cum" or $word1 is "rush" or $word1 is "to">>\u000a<<display where>>\u000a\u000a<<else if $word1 is "leave" or $word1 is "no">>\u000a<<display endgame>>\u000a\u000a<<else if $word1 is "dread" or $word1 is "dream" or $word1 is "enigma" or $word1 is "lie" or $word1 is "meme" or $word1 is "sad" or $word1 is "secret" or $word1 is "rage">>\u000a<<display aboutwhat>>\u000a\u000a<<else if $word1 is "peep">>\u000a<<display atwhat>>\u000a\u000a<<else if $word1 is "naked" or $word1 is "present" or $word1 is "scum" or $word1 is "tin">>\u000a<<display adjective>>\u000a\u000a<<else if $word1 is "malice">>\u000a<<display towardswhat>>\u000a\u000a<<else if $word1 is "ass" or $word1 is "atp" or $word1 is "flesh" or $word1 is "lice" or $word1 is "lust" or $word1 is "mania" or $word1 is "me" or $word1 is "men" or $word1 is "passion" or $word1 is "tea" or $word1 is "wisdom">>\u000a<<display whatabout>>\u000a\u000a<<else if $word1 is "arm" or $word1 is "bot" or $word1 is "coke" or $word1 is "dea" or $word1 is "deed" or $word1 is "lid" or $word1 is "man" or $word1 is "maniac" or $word1 is "ream" or $word1 is "rut" or $word1 is "ssd">>\u000a<<display whataboutthe>>\u000a\u000a<<else if $word1 is "fool" or $word1 is "man">>\u000a<<display whoisthe>>\u000a\u000a<<else if $word1 is "bottom">>\u000a<<display ontheofwhat>>\u000a\u000a<<else if $word1 is "bite" or $word1 is "by" or $word1 is "crush" or $word1 is "curse" or $word1 is "tease">>\u000a<<display who>>\u000a\u000a<<else if $word1 is "past" or $word1 is "sos">>\u000a<<display whatisinthe>>\u000a\u000a<<else if $word1 is "ten" or $word1 is "truth">>\u000a<<display ofwhat>>\u000a\u000a<<else if $word1 is "pee">>\u000a<<display onwhat>>\u000a\u000a<<else>>\u000a<<display $word1>>\u000a\u000a<<endif>>\u000a\u000a<<silently>>\u000a[[add]]\u000a[[aiff]]\u000a[[arm]]\u000a[[ass]]\u000a[[at]]\u000a[[atp]]\u000a[[bail]]\u000a[[bite]]\u000a[[bot]]\u000a[[bottom]]\u000a[[by]]\u000a[[chat]]\u000a[[coke]]\u000a[[crush]]\u000a[[cum]]\u000a[[curse]]\u000a[[cut]]\u000a[[dea]]\u000a[[deed]]\u000a[[do]]\u000a[[dom]]\u000a[[dread]]\u000a[[dream]]\u000a[[easel]]\u000a[[eat]]\u000a[[enigma]]\u000a[[feel]]\u000a[[flesh]]\u000a[[fool]]\u000a[[hate]]\u000a[[hi]]\u000a[[hum]]\u000a[[ion]]\u000a[[iou]]\u000a[[kick]]\u000a[[leave]]\u000a[[lice]]\u000a[[lid]]\u000a[[lie]]\u000a[[lust]]\u000a[[made]]\u000a[[malice]]\u000a[[mam]]\u000a[[man]]\u000a[[mania]]\u000a[[maniac]]\u000a[[me]]\u000a[[meme]]\u000a[[men]]\u000a[[mod]]\u000a[[naked]]\u000a[[no]]\u000a[[pair]]\u000a[[pass]]\u000a[[passion]]\u000a[[past]]\u000a[[pee]]\u000a[[peep]]\u000a[[present]]\u000a[[pogo]]\u000a[[rage]]\u000a[[read]]\u000a[[ream]]\u000a[[rot]]\u000a[[rush]]\u000a[[rut]]\u000a[[sad]]\u000a[[scum]]\u000a[[secret]]\u000a[[see]]\u000a[[sin]]\u000a[[slam]]\u000a[[sos]]\u000a[[ssd]]\u000a[[suicide]]\u000a[[tea]]\u000a[[tease]]\u000a[[ten]]\u000a[[the]]\u000a[[tin]]\u000a[[truth]]\u000a[[to]]\u000a[[wisdom]]\u000a<<endsilently>>\u000a
+V<<if $word1 is "cut" or $word1 is "do" or $word1 is "dom" or $word1 is "eat" or $word1 is "feel" or $word1 is "hate" or $word1 is "hum" or $word1 is "kick" or $word1 is "made" or $word1 is "mod" or $word1 is "pass" or $word1 is "read" or $word1 is "rot" or $word1 is "see" or $word1 is "slam" or $word1 is "the">>\u000a<<display what>>\u000a\u000a<<else if $word1 is "add" or $word1 is "pair">>\u000a<<display whatandwhat>>\u000a\u000a<<else if $word1 is "chat">>\u000a<<display withwho>>\u000a\u000a<<else if $word1 is "art" or $word1 is "at" or $word1 is "bail" or $word1 is "cum" or $word1 is "ice" or $word1 is "rush" or $word1 is "to">>\u000a<<display where>>\u000a\u000a<<else if $word1 is "leave" or $word1 is "no">>\u000a<<display endgame>>\u000a\u000a<<else if $word1 is "belief" or $word1 is "dread" or $word1 is "dream" or $word1 is "enigma" or $word1 is "lie" or $word1 is "meme" or $word1 is "sad" or $word1 is "secret" or $word1 is "rage">>\u000a<<display aboutwhat>>\u000a\u000a<<else if $word1 is "fury" or $word1 is "peep">>\u000a<<display atwhat>>\u000a\u000a<<else if $word1 is "naked" or $word1 is "present" or $word1 is "smart" or $word1 is "scum" or $word1 is "tin">>\u000a<<display adjective>>\u000a\u000a<<else if $word1 is "malice">>\u000a<<display towardswhat>>\u000a\u000a<<else if $word1 is "ass" or $word1 is "atp" or $word1 is "dirt" or $word1 is "flesh" or $word1 is "lice" or $word1 is "lust" or $word1 is "mania" or $word1 is "me" or $word1 is "men" or $word1 is "passion" or $word1 is "tea" or $word1 is "wisdom">>\u000a<<display whatabout>>\u000a\u000a<<else if $word1 is "arm" or $word1 is "bot" or $word1 is "coke" or $word1 is "dea" or $word1 is "deed" or $word1 is "lid" or $word1 is "man" or $word1 is "maniac" or $word1 is "ream" or $word1 is "rut" or $word1 is "ssd">>\u000a<<display whataboutthe>>\u000a\u000a<<else if $word1 is "fool" or $word1 is "man">>\u000a<<display whoisthe>>\u000a\u000a<<else if $word1 is "bottom">>\u000a<<display ontheofwhat>>\u000a\u000a<<else if $word1 is "bite" or $word1 is "by" or $word1 is "crush" or $word1 is "curse" or $word1 is "tease">>\u000a<<display who>>\u000a\u000a<<else if $word1 is "mart" or $word1 is "past" or $word1 is "sos">>\u000a<<display whatisinthe>>\u000a\u000a<<else if $word1 is "fur" or $word1 is "seed" or $word1 is "ten" or $word1 is "truth">>\u000a<<display ofwhat>>\u000a\u000a<<else if $word1 is "pee">>\u000a<<display onwhat>>\u000a\u000a<<else>>\u000a<<display $word1>>\u000a\u000a<<endif>>\u000a\u000a<<silently>>\u000a[[add]]\u000a[[aiff]]\u000a[[arm]]\u000a[[art]]\u000a[[ass]]\u000a[[at]]\u000a[[atp]]\u000a[[bail]]\u000a[[belief]]\u000a[[bite]]\u000a[[bot]]\u000a[[bottom]]\u000a[[by]]\u000a[[chat]]\u000a[[coke]]\u000a[[crush]]\u000a[[cum]]\u000a[[curse]]\u000a[[cut]]\u000a[[dea]]\u000a[[deed]]\u000a[[dirt]]\u000a[[do]]\u000a[[dom]]\u000a[[dread]]\u000a[[dream]]\u000a[[ease]]\u000a[[easel]]\u000a[[eat]]\u000a[[enigma]]\u000a[[feel]]\u000a[[flesh]]\u000a[[fool]]\u000a[[fur]]\u000a[[fury]]\u000a[[hate]]\u000a[[hi]]\u000a[[hum]]\u000a[[ice]]\u000a[[ion]]\u000a[[iou]]\u000a[[kick]]\u000a[[leave]]\u000a[[lice]]\u000a[[lid]]\u000a[[lie]]\u000a[[lust]]\u000a[[made]]\u000a[[malice]]\u000a[[mam]]\u000a[[man]]\u000a[[mania]]\u000a[[maniac]]\u000a[[mart]]\u000a[[me]]\u000a[[meme]]\u000a[[men]]\u000a[[mod]]\u000a[[naked]]\u000a[[no]]\u000a[[pair]]\u000a[[pass]]\u000a[[passion]]\u000a[[past]]\u000a[[pee]]\u000a[[peep]]\u000a[[present]]\u000a[[pogo]]\u000a[[rage]]\u000a[[read]]\u000a[[ream]]\u000a[[rot]]\u000a[[rush]]\u000a[[rut]]\u000a[[sad]]\u000a[[scum]]\u000a[[secret]]\u000a[[see]]\u000a[[seed]]\u000a[[sin]]\u000a[[slam]]\u000a[[smart]]\u000a[[sos]]\u000a[[ssd]]\u000a[[suicide]]\u000a[[tea]]\u000a[[tease]]\u000a[[ten]]\u000a[[the]]\u000a[[tin]]\u000a[[truth]]\u000a[[to]]\u000a[[wisdom]]\u000a<<endsilently>>\u000a
 p72
 sg23
 VWords
@@ -202,12 +202,12 @@ sg25
 g26
 ((I2015
 I4
-I8
-I18
-I37
-I8
-I2
-I98
+I9
+I0
+I5
+I28
+I3
+I99
 I1
 tp74
 (dp75
@@ -285,7 +285,7 @@ g14
 I00
 sg15
 (lp99
-I430
+I570
 aI1550
 asg17
 (itiddlywiki
@@ -321,7 +321,7 @@ g14
 I00
 sg15
 (lp109
-I1410
+I1550
 aI1550
 asg17
 (itiddlywiki
@@ -393,7 +393,7 @@ g14
 I00
 sg15
 (lp129
-I850
+I990
 aI990
 asg17
 (itiddlywiki
@@ -429,7 +429,7 @@ g14
 I00
 sg15
 (lp139
-I710
+I850
 aI1550
 asg17
 (itiddlywiki
@@ -501,7 +501,7 @@ g14
 I00
 sg15
 (lp159
-I1130
+I1270
 aI990
 asg17
 (itiddlywiki
@@ -573,7 +573,7 @@ g14
 I00
 sg15
 (lp179
-I150
+I290
 aI710
 asg17
 (itiddlywiki
@@ -789,7 +789,7 @@ g14
 I00
 sg15
 (lp239
-I570
+I710
 aI1270
 asg17
 (itiddlywiki
@@ -1032,7 +1032,7 @@ g14
 I00
 sg15
 (lp308
-I990
+I1130
 aI990
 asg17
 (itiddlywiki
@@ -1117,7 +1117,7 @@ g14
 I00
 sg15
 (lp332
-I710
+I990
 aI710
 asg17
 (itiddlywiki
@@ -1189,7 +1189,7 @@ g14
 I00
 sg15
 (lp352
-I1270
+I1410
 aI1550
 asg17
 (itiddlywiki
@@ -1347,7 +1347,7 @@ g14
 I00
 sg15
 (lp397
-I710
+I850
 aI990
 asg17
 (itiddlywiki
@@ -1491,7 +1491,7 @@ g14
 I00
 sg15
 (lp437
-I1130
+I1270
 aI1550
 asg17
 (itiddlywiki
@@ -1527,7 +1527,7 @@ g14
 I00
 sg15
 (lp447
-I1550
+I1690
 aI1550
 asg17
 (itiddlywiki
@@ -1663,7 +1663,7 @@ g14
 I00
 sg15
 (lp487
-I430
+I570
 aI990
 asg17
 (itiddlywiki
@@ -1771,7 +1771,7 @@ g14
 I00
 sg15
 (lp517
-I150
+I290
 aI1130
 asg17
 (itiddlywiki
@@ -1965,7 +1965,7 @@ g14
 I00
 sg15
 (lp572
-I990
+I1130
 aI1550
 asg17
 (itiddlywiki
@@ -2001,7 +2001,7 @@ g14
 I00
 sg15
 (lp582
-I150
+I290
 aI2250
 asg17
 (itiddlywiki
@@ -2050,7 +2050,7 @@ g14
 I00
 sg15
 (lp596
-I570
+I850
 aI710
 asg17
 (itiddlywiki
@@ -2266,7 +2266,7 @@ g14
 I00
 sg15
 (lp656
-I150
+I290
 aI990
 asg17
 (itiddlywiki
@@ -2302,7 +2302,7 @@ g14
 I00
 sg15
 (lp666
-I430
+I570
 aI1270
 asg17
 (itiddlywiki
@@ -2374,7 +2374,7 @@ g14
 I00
 sg15
 (lp686
-I290
+I430
 aI990
 asg17
 (itiddlywiki
@@ -3346,7 +3346,7 @@ g14
 I00
 sg15
 (lp975
-I150
+I430
 aI2390
 asg17
 (itiddlywiki
@@ -3382,7 +3382,7 @@ g14
 I00
 sg15
 (lp985
-I570
+I710
 aI1550
 asg17
 (itiddlywiki
@@ -3740,7 +3740,7 @@ g14
 I00
 sg15
 (lp1090
-I430
+I570
 aI710
 asg17
 (itiddlywiki
@@ -4117,7 +4117,7 @@ g14
 I00
 sg15
 (lp1197
-I290
+I430
 aI2250
 asg17
 (itiddlywiki
@@ -4153,7 +4153,7 @@ g14
 I00
 sg15
 (lp1207
-I850
+I990
 aI1550
 asg17
 (itiddlywiki
@@ -4189,7 +4189,7 @@ g14
 I00
 sg15
 (lp1217
-I290
+I570
 aI2390
 asg17
 (itiddlywiki
@@ -4311,7 +4311,7 @@ g14
 I00
 sg15
 (lp1252
-I290
+I430
 aI710
 asg17
 (itiddlywiki
@@ -4446,7 +4446,7 @@ g14
 I00
 sg15
 (lp1291
-I570
+I710
 aI990
 asg17
 (itiddlywiki
@@ -4540,10 +4540,384 @@ tp1315
 (dp1316
 tp1317
 Rp1318
+sbsa(dp1319
+g14
+I00
+sg15
+(lp1320
+I150
+aI2390
+asg17
+(itiddlywiki
+Tiddler
+p1321
+(dp1322
+g21
+g87
+sg23
+Vfur
+p1323
+sg25
+g26
+((I2015
+I4
+I8
+I23
+I50
+I49
+I2
+I98
+I1
+tp1324
+(dp1325
+tp1326
+Rp1327
+sg31
+(lp1328
+sg33
+g1327
+sbsa(dp1329
+g14
+I00
+sg15
+(lp1330
+I150
+aI990
+asg17
+(itiddlywiki
+Tiddler
+p1331
+(dp1332
+g21
+g87
+sg23
+Vbelief
+p1333
+sg25
+g26
+((I2015
+I4
+I8
+I23
+I50
+I49
+I2
+I98
+I1
+tp1334
+(dp1335
+tp1336
+Rp1337
+sg31
+(lp1338
+sg33
+g1337
+sbsa(dp1339
+g14
+I00
+sg15
+(lp1340
+I430
+aI1550
+asg17
+(itiddlywiki
+Tiddler
+p1341
+(dp1342
+g21
+g87
+sg23
+Vdirt
+p1343
+sg25
+g26
+((I2015
+I4
+I8
+I23
+I50
+I49
+I2
+I98
+I1
+tp1344
+(dp1345
+tp1346
+Rp1347
+sg31
+(lp1348
+sg33
+g1347
+sbsa(dp1349
+g14
+I00
+sg15
+(lp1350
+I150
+aI1130
+asg17
+(itiddlywiki
+Tiddler
+p1351
+(dp1352
+g21
+g87
+sg23
+Vfury
+p1353
+sg25
+g26
+((I2015
+I4
+I8
+I23
+I50
+I49
+I2
+I98
+I1
+tp1354
+(dp1355
+tp1356
+Rp1357
+sg31
+(lp1358
+sg33
+g1357
+sbsa(dp1359
+g14
+I00
+sg15
+(lp1360
+I990
+aI2670
+asg17
+(itiddlywiki
+Tiddler
+p1361
+(dp1362
+g21
+V<<display Table>>\u000a\u000aIf only it was.\u000a
+p1363
+sg23
+Vease
+p1364
+sg25
+g26
+((I2015
+I4
+I9
+I0
+I2
+I0
+I3
+I99
+I1
+tp1365
+(dp1366
+tp1367
+Rp1368
+sg31
+(lp1369
+sg33
+g26
+((I2015
+I4
+I8
+I23
+I50
+I49
+I2
+I98
+I1
+tp1370
+(dp1371
+tp1372
+Rp1373
+sbsa(dp1374
+g14
+I00
+sg15
+(lp1375
+I710
+aI710
+asg17
+(itiddlywiki
+Tiddler
+p1376
+(dp1377
+g21
+g87
+sg23
+Vice
+p1378
+sg25
+g26
+((I2015
+I4
+I8
+I23
+I50
+I49
+I2
+I98
+I1
+tp1379
+(dp1380
+tp1381
+Rp1382
+sg31
+(lp1383
+sg33
+g1382
+sbsa(dp1384
+g14
+I00
+sg15
+(lp1385
+I150
+aI2250
+asg17
+(itiddlywiki
+Tiddler
+p1386
+(dp1387
+g21
+g87
+sg23
+Vmart
+p1388
+sg25
+g26
+((I2015
+I4
+I8
+I23
+I50
+I49
+I2
+I98
+I1
+tp1389
+(dp1390
+tp1391
+Rp1392
+sg31
+(lp1393
+sg33
+g1392
+sbsa(dp1394
+g14
+I00
+sg15
+(lp1395
+I290
+aI2390
+asg17
+(itiddlywiki
+Tiddler
+p1396
+(dp1397
+g21
+g87
+sg23
+Vseed
+p1398
+sg25
+g26
+((I2015
+I4
+I8
+I23
+I50
+I49
+I2
+I98
+I1
+tp1399
+(dp1400
+tp1401
+Rp1402
+sg31
+(lp1403
+sg33
+g1402
+sbsa(dp1404
+g14
+I00
+sg15
+(lp1405
+I150
+aI710
+asg17
+(itiddlywiki
+Tiddler
+p1406
+(dp1407
+g21
+g87
+sg23
+Vart
+p1408
+sg25
+g26
+((I2015
+I4
+I8
+I23
+I50
+I49
+I2
+I98
+I1
+tp1409
+(dp1410
+tp1411
+Rp1412
+sg31
+(lp1413
+sg33
+g1412
+sbsa(dp1414
+g14
+I00
+sg15
+(lp1415
+I430
+aI1270
+asg17
+(itiddlywiki
+Tiddler
+p1416
+(dp1417
+g21
+g87
+sg23
+Vsmart
+p1418
+sg25
+g26
+((I2015
+I4
+I8
+I23
+I50
+I49
+I2
+I98
+I1
+tp1419
+(dp1420
+tp1421
+Rp1422
+sg31
+(lp1423
+sg33
+g1422
 sbsasS'scale'
-p1319
+p1424
 I1
 sS'snapping'
-p1320
+p1425
 I01
 ss.
