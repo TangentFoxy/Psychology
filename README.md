@@ -1,4 +1,4 @@
-# [Psychology](http://guard13007.itch.io/psychology)
+# [Psychology](https://guard13007.itch.io/psychology)
 
 A word search. See what you want to.
 
